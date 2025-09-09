@@ -3,7 +3,7 @@ import pandas as pd
 import os, json
 
 st.set_page_config(page_title="🔒 Admin — Rifa 20.000", page_icon="🔒", layout="wide")
-st.title("🔒 Admin — Leads da Rifa 20.000")
+st.title("🔒 Admin ")
 
 # --- Senha vinda do secrets.toml ---
 correct = st.secrets.get("admin_password", "")
