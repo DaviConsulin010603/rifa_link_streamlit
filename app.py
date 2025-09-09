@@ -6,7 +6,7 @@ import re, csv, os, uuid, json
 st.set_page_config(page_title="Rifa 20.000 — Cadastro", page_icon="🎟️", layout="centered")
 
 st.title("🎟️ RIFA R$20.000 EM PRÊMIO — Cadastro rápido")
-st.write("sua chance de ganhar mais de 20 mil em dinheiro")
+st.title("SUA CHANCE DE GANHAR MAIS DE R$20.000 EM DINHEIRO !")
 
 def normalize_phone_br(raw: str):
     digits = re.sub(r"\D", "", raw or "")
