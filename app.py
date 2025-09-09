@@ -5,7 +5,7 @@ import re, csv, os, uuid, json
 
 st.set_page_config(page_title="Rifa 20.000 — Cadastro", page_icon="🎟️", layout="centered")
 
-st.title("Concorra a mais de R$20.000 em dinherio")
+st.title("💰Concorra a mais de R$20.000 em dinherio💰")
 st.write("Cadastre e Concorra")
 
 def normalize_phone_br(raw: str):
