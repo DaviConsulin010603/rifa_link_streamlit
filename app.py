@@ -38,7 +38,7 @@ with st.form("lead_form", clear_on_submit=False):
 **Controlador:** *ITSPLAY*, .  
 **Finalidade:** Enviar comunicações sobre a *Campanha Rifa 20.000* e conteúdos correlatos.  
 **Dados coletados:** Telefone (WhatsApp), data/hora do cadastro e parâmetros do anúncio.  
-**Base legal:** Consentimento (art. 7º, I, LGPD).  
+**Base legal:** Consentimento (art. 7º, I); obrigação legal (art. 7º, II e art. 16); legítimo interesse só para prevenção à fraude (oposição possível).  
 **Compartilhamento:** Prestadores necessários para o envio de mensagens (ex.: provedores de WhatsApp/SMS).  
 **Retenção:** Até 12 meses após o término da campanha ou até revogação do consentimento.  
 **Direitos:** acesso, correção, exclusão e revogação a qualquer tempo.    
